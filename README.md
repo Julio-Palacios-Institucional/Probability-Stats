@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-\# Probabilidad y Estadística · 2026B
-
-
-
 Repositorio con las actividades de la materia \*\*Probabilidad y Estadística\*\*: Hands-on, Challenges y Tech Readings. Incluye los programas en C++ de regresión lineal simple (Caso Benetton) y de tabla de frecuencia extendida, además de las derivaciones y hojas de cálculo del curso.
 
 
@@ -339,10 +333,3 @@ El mismo procedimiento aplica a `Hands-on 4`. Si el archivo fuente tiene otro no
 - [ ] Hands-on 3
 - [ ] Hands-on 4
 - [ ] Challenge 1
-
-El código se sube después de su evaluación individual, según lo indicado por el docente.
->>>>>>> da4c2f452b73a0bc6531fd14fde363ccfecc3579
-=======
-# Probability-Stats
-Actividades de Probabilidad y Estadística (2026B, TecMM Zapopan): regresión lineal simple en C++ con el Caso Benetton, tabla de frecuencia extendida, derivaciones de mínimos cuadrados y hojas de cálculo.
->>>>>>> 129536b2144d286d3770590c8e45b31af3d07ad4
