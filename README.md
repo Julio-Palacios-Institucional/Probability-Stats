@@ -2,7 +2,6 @@ Repositorio con las actividades de la materia \*\*Probabilidad y Estadística\*\
 
 
 
-| | |
 
 |---|---|
 
